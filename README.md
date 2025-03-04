@@ -1,3 +1,4 @@
+<img width="505" alt="calcuatorApp_ScreenShot" src="https://github.com/user-attachments/assets/13c5ada7-db06-49b5-a25e-5a1198b00a8e" />
 # calculator_app
 
 A new Flutter project.
